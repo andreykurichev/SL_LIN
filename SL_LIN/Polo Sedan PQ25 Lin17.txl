@@ -1,0 +1,23 @@
+[TxList]
+Message0Id=00D
+Message0DLC=4
+Message0Data=64 00 00 00            
+Message0Period=250
+Message0Comment=
+Message0Mode=250
+Message0TriggerId=
+Message1Id=055
+Message1DLC=6
+Message1Data=00 00 00 00 00 00      
+Message1Period=200
+Message1Comment=
+Message1Mode=200
+Message1TriggerId=
+Message2Id=03C
+Message2DLC=8
+Message2Data=11 11 11 11 11 11 11 11
+Message2Period=300
+Message2Comment=
+Message2Mode=300
+Message2TriggerId=
+Message3Id=-1
